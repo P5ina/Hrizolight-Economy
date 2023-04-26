@@ -1,0 +1,6 @@
+name: Hrizolight Economy
+version: '${project.version}'
+main: p5ina.hrizolighteconomy.HrizolightEconomy
+api-version: 1.19
+authors: [ P5ina ]
+description: Adds ATMs and Drones
